@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is eighth file from master
 
+=======
+This is the eighth file folder 2 from second branch
+>>>>>>> first

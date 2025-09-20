@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is from master second file
+=======
+This is second file in first branch
+>>>>>>> first

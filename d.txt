@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is from master fourth file
+=======
+This is fourth file from first branch folder 2
+>>>>>>> first

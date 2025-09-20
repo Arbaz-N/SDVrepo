@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is from master third file
+=======
+This is third file from first branch
+>>>>>>> first

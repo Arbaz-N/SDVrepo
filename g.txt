@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is seventh file from master
+=======
+this is the seventh file folder 3 in second branch
+>>>>>>> first
 
